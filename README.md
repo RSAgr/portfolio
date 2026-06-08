@@ -124,7 +124,7 @@ An AI-powered VS Code extension that simplifies Algorand smart contract developm
 
 ### Preview
 
-![AlgoMate Demo](assets/algomate.gif)
+![AlgoMate Demo](assets/banditGIT.gif)
 
 ---
 
@@ -230,21 +230,6 @@ A machine learning-based forecasting system designed to predict future demand us
 
 
 ---
-
-# 📂 Repository Structure
-
-```text
-portfolio
-│
-├── README.md
-│
-└── assets
-    ├── soccer.gif
-    ├── forecast.gif
-    ├── algomate.gif
-    ├── traffic.gif
-    └── agritech.gif
-```
 
 ---
 
