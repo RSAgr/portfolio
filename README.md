@@ -4,11 +4,13 @@
 
 ### AIML Undergraduate @ BIT Mesra
 
-Building AI-powered products, computer vision systems, blockchain applications, and developer tools.
+Building AI Systems • Computer Vision Applications • Developer Tools • Full-Stack Products
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue)](YOUR_PORTFOLIO_LINK)
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_LINK)
 [![Resume](https://img.shields.io/badge/Resume-View-green)](YOUR_RESUME_LINK)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -16,15 +18,19 @@ Building AI-powered products, computer vision systems, blockchain applications, 
 
 ## 🚀 About Me
 
-I am a Computer Science (AIML) student at BIT Mesra with a strong interest in:
+I am a Computer Science (AIML) student at BIT Mesra passionate about building intelligent systems that solve real-world problems.
+
+My interests include:
 
 - Artificial Intelligence
 - Computer Vision
-- Blockchain & Smart Contracts
+- Machine Learning
 - Full Stack Development
-- Developer Tools & Productivity Software
+- Blockchain & Smart Contracts
+- Developer Tools
+- Information Retrieval
 
-I enjoy building projects that solve real-world problems and combining software engineering with machine learning to create impactful products.
+I enjoy transforming ideas into impactful products by combining software engineering with AI.
 
 ---
 
@@ -36,7 +42,7 @@ I enjoy building projects that solve real-world problems and combining software 
 
 ### Frontend
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui)
 
 ### Backend
 
@@ -44,11 +50,11 @@ I enjoy building projects that solve real-world problems and combining software 
 
 ### AI & ML
 
-![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)
+![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv)
 
-### Blockchain
+### Tools
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)
 
 ---
 
@@ -56,89 +62,24 @@ I enjoy building projects that solve real-world problems and combining software 
 
 ---
 
-## 1️⃣ AlgoMate – AI-Powered Algorand Development Assistant
+## ⚽ Soccer Analytics & Player Tracking System
 
 ### Overview
 
-AlgoMate is a VS Code extension designed to simplify and accelerate Algorand smart contract development through AI-powered assistance, smart templates, deployment workflows, and intelligent code generation. The project supports both cloud-based LLMs and privacy-focused local SLM deployments. :contentReference[oaicite:0]{index=0}
-
-### Key Features
-
-- Smart contract generation
-- Template-based contract creation
-- AI-assisted development workflow
-- Stateful and stateless contract support
-- Privacy-first local model support
-- Developer productivity enhancements
-
-### Tech Stack
-
-`Python` • `TypeScript` • `VS Code Extension API` • `LLMs` • `Algorand`
-
-### Repository
-
-🔗 https://github.com/RSAgr/ByteBandits
-
-### Demo Video
-
-🎥 https://YOUR-ALGOMATE-DEMO-LINK
-
-### Screenshots
-
-<img src="assets/algomate.png" width="800"/>
-
----
-
-## 2️⃣ AgriTech Platform
-
-### Overview
-
-An agriculture-focused technology platform aimed at solving real-world farming challenges through intelligent software solutions. The platform focuses on improving accessibility, efficiency, and decision-making for agricultural stakeholders.
-
-### Highlights
-
-- Modern web architecture
-- Agriculture-focused workflows
-- Data-driven insights
-- User-friendly dashboard
-- Scalable design
-
-### Tech Stack
-
-`React` • `Node.js` • `MongoDB` • `Machine Learning`
-
-### Repository
-
-🔗 https://github.com/RSAgr/agrTech
-
-### Demo Video
-
-🎥 https://YOUR-AGRITECH-DEMO-LINK
-
-### Screenshots
-
-<img src="assets/agritech.png" width="800"/>
-
----
-
-## 3️⃣ Soccer Analytics & Player Tracking System
-
-### Overview
-
-A computer vision system for football analytics that performs player tracking, identity preservation, motion analysis, and sports intelligence using modern AI techniques.
+A computer vision system for football analytics that tracks players across frames while maintaining identity consistency using modern multi-object tracking techniques.
 
 ### Key Features
 
 - Multi-object player tracking
-- Player re-identification
-- Motion analysis
-- Match analytics
-- Computer vision pipeline
-- Real-time processing
+- StrongSORT integration
+- Optical Flow enhancement
+- Kalman Filtering
+- Sports analytics generation
+- Identity preservation during occlusions
 
 ### Tech Stack
 
-`Python` • `OpenCV` • `YOLO` • `StrongSORT` • `NumPy`
+`Python` • `OpenCV` • `YOLO` • `StrongSORT`
 
 ### Repository
 
@@ -148,20 +89,146 @@ A computer vision system for football analytics that performs player tracking, i
 
 🎥 https://YOUR-SOCCER-DEMO-LINK
 
-### Screenshots
+### Preview
 
-<img src="assets/soccer.png" width="800"/>
+![Soccer Demo](assets/soccer.gif)
 
 ---
 
-# 📈 What I'm Currently Exploring
+## 📈 ForeCast
 
-- Large Language Models
-- Information Retrieval Systems
-- Computer Vision for Sports Analytics
-- Intelligent Developer Tools
-- Blockchain Infrastructure
-- Research in AI Systems
+### Overview
+
+A machine learning-based forecasting system designed to predict future demand using historical data and advanced feature engineering techniques.
+
+### Key Features
+
+- Demand forecasting
+- Time-series analysis
+- Feature engineering
+- Model evaluation
+- Predictive analytics
+
+### Tech Stack
+
+`Python` • `CatBoost` • `Scikit-Learn` • `Pandas`
+
+### Repository
+
+🔗 https://github.com/RSAgr/foreCast
+
+### Demo Video
+
+🎥 https://YOUR-FORECAST-DEMO-LINK
+
+### Preview
+
+![Forecast Demo](assets/forecast.gif)
+
+---
+
+## 🤖 AlgoMate
+
+### Overview
+
+An AI-powered VS Code extension that simplifies Algorand smart contract development through intelligent code generation and developer productivity features.
+
+### Key Features
+
+- Smart contract generation
+- AI-assisted coding
+- Contract templates
+- Deployment support
+- Developer productivity tools
+
+### Tech Stack
+
+`Python` • `TypeScript` • `VS Code API` • `Algorand`
+
+### Repository
+
+🔗 https://github.com/RSAgr/ByteBandits
+
+### Demo Video
+
+🎥 https://YOUR-ALGOMATE-DEMO-LINK
+
+### Preview
+
+![AlgoMate Demo](assets/algomate.gif)
+
+---
+
+## 🚦 Bengaluru Traffic Analytics
+
+### Overview
+
+A data analytics project focused on understanding traffic patterns in Bengaluru and extracting insights through visualization and statistical analysis.
+
+### Key Features
+
+- Traffic pattern analysis
+- Congestion trend detection
+- Data visualization
+- Urban mobility insights
+
+### Tech Stack
+
+`Python` • `Pandas` • `NumPy` • `Matplotlib`
+
+### Repository
+
+🔗 https://github.com/RSAgr/BLR_traffic
+
+### Demo Video
+
+🎥 https://YOUR-BLR-DEMO-LINK
+
+### Preview
+
+![Traffic Demo](assets/traffic.gif)
+
+---
+
+## 🌾 AgriTech Platform
+
+### Overview
+
+A technology platform aimed at improving agricultural workflows through intelligent software solutions and data-driven decision making.
+
+### Key Features
+
+- Modern web platform
+- Responsive design
+- Data-driven workflows
+- Scalable architecture
+
+### Tech Stack
+
+`React` • `Node.js` • `MongoDB`
+
+### Repository
+
+🔗 https://github.com/RSAgr/agrTech
+
+### Demo Video
+
+🎥 https://YOUR-AGRITECH-DEMO-LINK
+
+### Preview
+
+![AgriTech Demo](assets/agritech.gif)
+
+---
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Computer Vision
+- Information Retrieval
+- Full Stack Development
+- Blockchain Technology
+- Developer Productivity Tools
 
 ---
 
@@ -169,51 +236,54 @@ A computer vision system for football analytics that performs player tracking, i
 
 - Flipkart Grid Participant
 - NSS Volunteer
-- Built production-scale event management systems
-- Developed AI-powered developer tooling
-- Worked on Computer Vision and Blockchain projects
+- Built AI-powered developer tooling
+- Developed computer vision solutions for sports analytics
+- Worked on blockchain-based applications and smart contracts
+- Designed and deployed full-stack applications
 
 ---
 
-# 📊 GitHub Stats
+# 📂 Repository Structure
 
-<div align="center">
-
-[<img height="170" src="https://github-readme-stats.vercel.app/api?username=RSAgr&show_icons=true" />
-](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RSAgr&show_icons=true&theme=tokyonight)
-
-</div>
+```text
+portfolio
+│
+├── README.md
+│
+└── assets
+    ├── soccer.gif
+    ├── forecast.gif
+    ├── algomate.gif
+    ├── traffic.gif
+    └── agritech.gif
+```
 
 ---
 
-# 🔥 Contribution Activity
+# 📄 Resume
 
-<div align="center">
+📌 Resume Link
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RSAgr" />
-
-</div>
+YOUR_RESUME_LINK
 
 ---
 
 # 📬 Contact
 
-### Let's connect
-
 📧 YOUR_EMAIL
 
-💼 YOUR_LINKEDIN
+💼 YOUR_LINKEDIN_LINK
 
-🌐 YOUR_PORTFOLIO
+🌐 YOUR_PORTFOLIO_LINK
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for visiting! 🚀
 
-Always open to collaborating on AI, Computer Vision, Blockchain, and Full-Stack projects.
+I'm always open to discussing AI, Computer Vision, Full Stack Development, Blockchain, and exciting software projects.
 
-⭐ If you find any project interesting, feel free to explore the repositories.
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
