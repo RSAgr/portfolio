@@ -226,7 +226,7 @@ A machine learning-based forecasting system designed to predict future demand us
 
 ### Preview
 
-![Forecast Demo](/Screenshot%2026-06-08%214736.png)
+![Forecast Demo](Screenshot%202026-06-08%20214736.png)
 
 
 ---
