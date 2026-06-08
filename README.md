@@ -8,9 +8,9 @@ Building AI Systems • Computer Vision Applications • Developer Tools • Ful
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_LINK)
-[![Resume](https://img.shields.io/badge/Resume-View-green)](YOUR_RESUME_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/RsAgBansal))
+[![Resume](https://img.shields.io/badge/Resume-View-green)]([YOUR_RESUME_LINK](https://drive.google.com/file/d/138kdZpNNhpRsUp3rATlr6VVm5gkLPOVJ/view?usp=sharing))
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:btech10991.23@bitmesra.ac.in)
 
 </div>
 
@@ -26,7 +26,6 @@ My interests include:
 - Computer Vision
 - Machine Learning
 - Full Stack Development
-- Blockchain & Smart Contracts
 - Developer Tools
 - Information Retrieval
 
@@ -42,7 +41,7 @@ I enjoy transforming ideas into impactful products by combining software enginee
 
 ### Frontend
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui)
+![Skills](https://skillicons.dev/icons?i=react,redux,tailwind)
 
 ### Backend
 
@@ -87,7 +86,8 @@ A computer vision system for football analytics that tracks players across frame
 
 ### Demo Video
 
-🎥 https://YOUR-SOCCER-DEMO-LINK
+🎥 https://drive.google.com/file/d/1hjQxy6GUyPdryagLr2WHQ2k09JbWS4Ak/view?usp=drive_link
+
 
 ### Preview
 
@@ -95,37 +95,6 @@ A computer vision system for football analytics that tracks players across frame
 
 ---
 
-## 📈 ForeCast
-
-### Overview
-
-A machine learning-based forecasting system designed to predict future demand using historical data and advanced feature engineering techniques.
-
-### Key Features
-
-- Demand forecasting
-- Time-series analysis
-- Feature engineering
-- Model evaluation
-- Predictive analytics
-
-### Tech Stack
-
-`Python` • `CatBoost` • `Scikit-Learn` • `Pandas`
-
-### Repository
-
-🔗 https://github.com/RSAgr/foreCast
-
-### Demo Video
-
-🎥 https://YOUR-FORECAST-DEMO-LINK
-
-### Preview
-
-![Forecast Demo](assets/forecast.gif)
-
----
 
 ## 🤖 AlgoMate
 
@@ -151,7 +120,7 @@ An AI-powered VS Code extension that simplifies Algorand smart contract developm
 
 ### Demo Video
 
-🎥 https://YOUR-ALGOMATE-DEMO-LINK
+🎥 [Youtube Video](https://www.youtube.com/watch?v=ruSK9BRcNyE)
 
 ### Preview
 
@@ -180,9 +149,9 @@ A data analytics project focused on understanding traffic patterns in Bengaluru 
 
 🔗 https://github.com/RSAgr/BLR_traffic
 
-### Demo Video
+### Presentation
 
-🎥 https://YOUR-BLR-DEMO-LINK
+🎥 https://canva.link/hu8vij1e2thscex
 
 ### Preview
 
@@ -213,7 +182,7 @@ A technology platform aimed at improving agricultural workflows through intellig
 
 ### Demo Video
 
-🎥 https://YOUR-AGRITECH-DEMO-LINK
+🎥 [DEMO-LINK](https://youtu.be/_vg1rU9LfCQ)
 
 ### Preview
 
@@ -232,14 +201,33 @@ A technology platform aimed at improving agricultural workflows through intellig
 
 ---
 
-# 🏆 Achievements
+## 📈 ForeCast
 
-- Flipkart Grid Participant
-- NSS Volunteer
-- Built AI-powered developer tooling
-- Developed computer vision solutions for sports analytics
-- Worked on blockchain-based applications and smart contracts
-- Designed and deployed full-stack applications
+### Overview
+
+A machine learning-based forecasting system designed to predict future demand using historical data and advanced feature engineering techniques.
+
+### Key Features
+
+- Demand forecasting
+- Time-series analysis
+- Feature engineering
+- Model evaluation
+- Predictive analytics
+
+### Tech Stack
+
+`Python` • `CatBoost` • `Scikit-Learn` • `Pandas`
+
+### Repository
+
+🔗 https://github.com/RSAgr/foreCast
+
+
+### Preview
+
+![Forecast Demo](assets/forecast.gif)
+
 
 ---
 
@@ -260,21 +248,8 @@ portfolio
 
 ---
 
-# 📄 Resume
-
-📌 Resume Link
-
-YOUR_RESUME_LINK
-
 ---
 
-# 📬 Contact
-
-📧 YOUR_EMAIL
-
-💼 YOUR_LINKEDIN_LINK
-
-🌐 YOUR_PORTFOLIO_LINK
 
 ---
 
@@ -282,7 +257,7 @@ YOUR_RESUME_LINK
 
 ### Thanks for visiting! 🚀
 
-I'm always open to discussing AI, Computer Vision, Full Stack Development, Blockchain, and exciting software projects.
+I'm always open to discussing AI, Computer Vision and exciting software projects.
 
 ⭐ Feel free to explore my repositories and connect with me.
 
