@@ -186,7 +186,7 @@ A technology platform aimed at improving agricultural workflows through intellig
 
 ### Preview
 
-![AgriTech Demo](assets/agritech.gif)
+![AgriTech Demo](/agrGIF.gif)
 
 ---
 
