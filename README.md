@@ -41,7 +41,7 @@ I enjoy transforming ideas into impactful products by combining software enginee
 
 ### Frontend
 
-![Skills](https://skillicons.dev/icons?i=react,redux,tailwind)
+![Skills](https://skillicons.dev/icons?i=react,tailwind)
 
 ### Backend
 
@@ -49,7 +49,7 @@ I enjoy transforming ideas into impactful products by combining software enginee
 
 ### AI & ML
 
-![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv)
+![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,Anaconda)
 
 ### Tools
 
