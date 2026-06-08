@@ -91,7 +91,7 @@ A computer vision system for football analytics that tracks players across frame
 
 ### Preview
 
-![Soccer Demo](assets/soccer.gif)
+![Soccer Demo](/soccerGIF.gif)
 
 ---
 
