@@ -124,7 +124,7 @@ An AI-powered VS Code extension that simplifies Algorand smart contract developm
 
 ### Preview
 
-![AlgoMate Demo](assets/banditGIT.gif)
+![AlgoMate Demo](/banditGIT.gif)
 
 ---
 
